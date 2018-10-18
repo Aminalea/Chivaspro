@@ -1,0 +1,30 @@
+{
+    "Addsticker": false,
+    "ChangeDP": false,
+    "ChangeGDP": false,
+    "ChangeGP": false,
+    "Images": {},
+    "Img": {},
+    "Sticker": {},
+    "alist": false,
+    "autoJoin": true,
+    "autoReject": {
+        "members": 1,
+        "status": true
+    },
+    "dblacklist": false,
+    "invitelist": {},
+    "left": [],
+    "mentionChat": {},
+    "pname": [],
+    "pro_invite": {},
+    "pro_name": {},
+    "pro_qr": {},
+    "protectinv": [],
+    "prourl": [],
+    "setkey": "",
+    "status": false,
+    "target": {},
+    "wblacklist": false,
+    "welcome": []
+}
